@@ -15,6 +15,7 @@ import com.github.mikephil.charting.renderer.LineChartRenderer;
  */
 public class LineChart extends BarLineChartBase<LineData> implements LineDataProvider {
 
+
     public LineChart(Context context) {
         super(context);
     }
