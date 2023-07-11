@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "246998620208",
+    "project_id": "crypto-dip",
+    "storage_bucket": "crypto-dip.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246998620208:android:d7b23ab52ec8b1e61275f5",
+        "android_client_info": {
+          "package_name": "se.musiccall.cryptodip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246998620208-6j1v4n7d10ag1fontvdosi7nva27ghho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrxbBF-spxsnVobqX0ALSSFwJ6BU6CBzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246998620208-6j1v4n7d10ag1fontvdosi7nva27ghho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
